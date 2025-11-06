@@ -1,0 +1,5 @@
+{
+  "name": "HealthGuard",
+  "description": "A smart health dashboard that provides a comprehensive overview of your vital signs, daily activities, and sleep patterns. It features a predictive health analysis and an AI coach powered by Gemini to offer personalized insights and recommendations.",
+  "requestFramePermissions": []
+}
